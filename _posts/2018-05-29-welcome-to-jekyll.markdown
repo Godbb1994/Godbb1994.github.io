@@ -9,11 +9,10 @@ tags:   information
 
 查看更多 [健康科普][jekyll-docs] 。
 
-所有內容，包括文字、圖像、影音，皆為原作者所有，轉載請洽原作者或透過[編輯部][jekyll-talk]代為詢問。
+所有內容，包括文字、圖像、影音，皆為原作者所有，轉載請洽原作者或透過[編輯部][jekyll-gh]代為詢問。
 
-[本校官網][jekyll-talk]
 
 
 [jekyll-docs]: https://godbb1994.github.io/
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://www.ntunhs.edu.tw/
+[jekyll-gh]:   https://www.ntunhs.edu.tw/
+
