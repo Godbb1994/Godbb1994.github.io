@@ -1,26 +1,19 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2018-05-29 18:05:55 +0300
+date:   2023-02-22 18:05:55 +0300
 image:  10.jpg
-tags:   Jekyll
+tags:   information
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+待組員新增資訊
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+查看更多 [健康科普][jekyll-docs] 。
 
-Jekyll also offers powerful support for code snippets:
+所有內容，包括文字、圖像、影音，皆為原作者所有，轉載請洽原作者或透過[編輯部][jekyll-talk]代為詢問。
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+[本校官網][jekyll-talk]
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-docs]: https://godbb1994.github.io/
 [jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[jekyll-talk]: https://www.ntunhs.edu.tw/
